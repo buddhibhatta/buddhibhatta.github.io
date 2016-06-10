@@ -1,0 +1,28 @@
+body {
+  color: blue;
+
+}
+h1 {
+  color: red;
+}
+ li {
+  display: block;
+  float: right;
+  padding: 0.5em;
+
+}
+ul {
+margin-right: 16em;
+}
+div {
+  display: inline-block;
+  width: 15em;
+    padding: 2em;
+    border: 5px
+     solid navy;
+    margin: 2em;
+}
+
+img {
+  width: 40%
+}
