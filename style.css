@@ -19,7 +19,7 @@ main ul li {
   width: 10em;
     padding: 0.2em;
     border: 5px solid navy;
-    margin: 2em;
+    margin: 0.2em;
 }
 div {
   display: inline-block;
@@ -32,4 +32,10 @@ div {
 
 img {
   width: 40%
+}
+main div .slide_image
+{
+  width: 7em;
+  margin-left: 80%;
+  float:right;
 }
