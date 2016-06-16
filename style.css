@@ -14,6 +14,13 @@ h1 {
 ul {
 margin-right: 16em;
 }
+main ul li {
+  display:inline;
+  width: 10em;
+    padding: 0.2em;
+    border: 5px solid navy;
+    margin: 2em;
+}
 div {
   display: inline-block;
   width: 15em;
