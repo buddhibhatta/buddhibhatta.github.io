@@ -39,3 +39,19 @@ main div .slide_image
   margin-left: 80%;
   float:right;
 }
+.contactpage {
+  width: 70em;
+    padding: 0.2em;
+    border: 5px solid navy;
+    margin: 0.2em;
+}
+
+#address {
+  float:right;
+  margin-left:25%;
+  border:3.1em solid gray;
+  margin-top: -49.8em;
+}
+.contactmap {
+  background-color: yellow;
+}
