@@ -33,3 +33,20 @@ div {
 img {
   width: 40%
 }
+div .banner img {
+  width: 200px;
+  float:none;
+  margin-right: 1em;
+}
+div .banner {
+  width: 100px;
+  float:none;
+  margin-right: 1em;
+  margin-left: 1em;
+}
+
+.banner img {
+  width: 100%;
+  padding: 1em;
+  margin-left: 1em;
+}
