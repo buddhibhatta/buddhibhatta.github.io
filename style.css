@@ -19,7 +19,7 @@ main ul li {
   width: 10em;
     padding: 0.2em;
     border: 5px solid navy;
-    margin: 2em;
+    margin: 0.2em;
 }
 div {
   display: inline-block;
@@ -33,6 +33,7 @@ div {
 img {
   width: 40%
 }
+<<<<<<< HEAD
 div .banner img {
   width: 200px;
   float:none;
@@ -49,4 +50,32 @@ div .banner {
   width: 100%;
   padding: 1em;
   margin-left: 1em;
+=======
+.slideimage {
+  width: 87em;
+  margin-left: 10%;
+  margin-right: 45%;
+  float:center;
+
+}
+img #scooter {
+  padding: 1%;
+}
+.contactpage {
+  width: 70em;
+    padding: 0.2em;
+    border: 5px solid navy;
+    margin: 0.2em;
+}
+
+#address {
+  width: 34%
+  float:right;
+  margin-left:45%;
+  border:3.1em solid gray;
+  margin-top: -57.8em;
+}
+.contactmap {
+  background-color: yellow;
+>>>>>>> origin/master
 }
