@@ -31,26 +31,31 @@ div {
 }
 
 img {
-  width: 40%
+  width: 80%
 }
-<<<<<<< HEAD
+
 div .banner img {
-  width: 200px;
+  width: 20px;
   float:none;
-  margin-right: 1em;
+  margin-right: 0em;
 }
-div .banner {
-  width: 100px;
-  float:none;
-  margin-right: 1em;
-  margin-left: 1em;
+div.banner {
+  width: 100%;
+
+  margin-right: 9em;
+  margin-left: 3em;
 }
 
 .banner img {
+  border: 1px solid black;
   width: 100%;
-  padding: 1em;
-  margin-left: 1em;
-=======
+  padding: 0em;
+  margin-left: -2em;
+  margin-right: -2em;
+  margin-top: -1.9em;
+  margin-bottom: -1.9em;
+}
+
 .slideimage {
   width: 87em;
   margin-left: 10%;
@@ -77,5 +82,5 @@ img #scooter {
 }
 .contactmap {
   background-color: yellow;
->>>>>>> origin/master
+
 }
